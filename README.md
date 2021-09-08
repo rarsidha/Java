@@ -1,2 +1,2 @@
 # Java GIT
-Learning Java Functional Programming
+Learning Java Functional Programming with GIT
