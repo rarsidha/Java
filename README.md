@@ -1,2 +1,2 @@
-# Java GIT TEST
+# Java GIT
 Learning Java Functional Programming
